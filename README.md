@@ -1,6 +1,6 @@
 Minhas configurações do Visual Studio Code – Mac.
 
-[Interface](interface.png)
+[Interface](https://github.com/frrrnd/vscode-configs/blob/master/interface.png)
 
 ## Instalação
 
